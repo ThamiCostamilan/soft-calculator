@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda&family=Unica+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda&family=Dai+Banna+SIL:wght@300&family=Unica+One&display=swap');
 
 body {
     width: 98%;
@@ -19,7 +19,8 @@ input{
     padding: 7px;
     outline: none;
     font-size: 40px;
-    font-family: 'Bodoni Moda', serif;
+    text-align: center;
+    font-family: 'Dai Banna SIL', serif;
     border-radius: 30%;
     margin-bottom: 15px;
     cursor: pointer;
