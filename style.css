@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda&family=Unica+One&display=swap');
+
+body {
+    width: 98%;
+    height: 98vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff2d0d3;
+    background-image: url('calculadora/ramis.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 535px 490px;
+
+}
+
+input{
+    color: #1b1b1b;
+    padding: 7px;
+    outline: none;
+    font-size: 40px;
+    font-family: 'Bodoni Moda', serif;
+    border-radius: 30%;
+    margin-bottom: 15px;
+    cursor: pointer;
+    
+}
+
+.num{
+    width: 78px;
+    height: 78px;
+}
+
+.text{
+    width: 230px;
+    height: 60px;
+    border-radius: 40px;
+    border-color: rgba(47, 122, 100, 0.486);
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 3px #062713b7;
+    text-shadow: 2px 2px 2px #2020204b;
+}
+
+.text1{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border-color: rgba(47, 122, 100, 0.486);
+    letter-spacing: 2px;
+    text-align: center;
+    margin-bottom: 20px;
+    cursor: pointer;
+    box-shadow: 2px 2px 3px #062713b7;
+    text-shadow: 2px 2px 2px #2020204b;
+}
+.main{
+    display: inline-block;
+}
+
+.maincolor{
+    background-color: #10694c46;
+    border-color: rgba(47, 122, 100, 0.486);
+    box-shadow: 2px 2px 3px #062713b7;
+    text-shadow: 2px 2px 2px #2020204b;
+}
+
+.blu{
+background-color: rgba(148, 148, 26, 0.651);
+border-color: rgba(47, 122, 100, 0.486);
+box-shadow: 2px 2px 3px #062713b7;
+text-shadow: 2px 2px 2px #2020204b;
+}
+
+.pin{
+    background-color: rgba(81, 121, 21, 0.705);
+    border-color: rgba(47, 122, 100, 0.486);
+    box-shadow: 2px 2px 3px #062713b7;
+    text-shadow: 2px 2px 2px #2020204b;
+}
+
+.gre{
+    background-color: rgba(13, 102, 13, 0.753);
+    border-color: rgba(47, 122, 100, 0.486);
+    box-shadow: 2px 2px 3px #062713b7;
+    text-shadow: 2px 2px 2px #2020204b;
+}
+
+.ora{
+    background-color: rgba(7, 105, 72, 0.767);
+    border-color: rgba(47, 122, 100, 0.486);
+    box-shadow: 2px 2px 3px #062713b7;
+    text-shadow: 2px 2px 2px #2020204b;
+}
+
+.pur{
+    background-color: rgba(248, 248, 156, 0.849);
+    border-color: rgba(47, 122, 100, 0.486);
+    box-shadow: 2px 2px 3px #062713b7;
+    text-shadow: 2px 2px 2px #2020204b;
+}
+
